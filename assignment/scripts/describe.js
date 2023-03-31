@@ -46,10 +46,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We are creating a variable called "name" and assigning its value to be that of the string 'Dane'.
+// Next we are creating a Boolean function to check the value of the name variable.
+// If the variable of "name" is strictly equal to that of 'Mary' the console will log 'Hi, Mary!'
+// If the variable is anything other than 'Mary' the console will log the string 'How do you do?'
 
 //CODE
 /*
