@@ -26,11 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-/*We are creating a variable called "number" and assigning the value of "1" to it. Then we are incrementing or increasing the value of the number variable by 1.
-// If the number variable has a value that is equal to or exceeds the number "2" the console will log the string 'yes'.
-//
-//
-//
+// We are creating a variable called "name" and assigning its value to be that of the string 'Dane'.
+// Next we are creating a Boolean function to check the value of the name variable.
+// If the variable of "name" is strictly equal to that of 'Mary' the console will log 'Hi, Mary!'
+// If the variable is anything other than 'Mary' the console will log the string 'How do you do?'
 
 //CODE
 /*
@@ -46,10 +45,12 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We are creating a variable called "name" and assigning its value to be that of the string 'Dane'.
-// Next we are creating a Boolean function to check the value of the name variable.
-// If the variable of "name" is strictly equal to that of 'Mary' the console will log 'Hi, Mary!'
-// If the variable is anything other than 'Mary' the console will log the string 'How do you do?'
+// We create two separate variables: the variable "secret" which has no value right away, and the variable "code" which is assigned the value of '123'.
+// Next the first of two if statements. Should the "code" variable strictly equal '123' the "secret" variable will be assigned the value of the string 'super', and the value of the "code" variable will be multiplied by two; thus equalling '246'.
+// For the next if statement, it will check if the "code" variable exceeds the number '250', if so, the value of the "secret" variable will become the string 'duper'.
+// When we console.log the "secret" variable, it will check the "code" variable. Should the "code" variable strictly equal '123' it will console.log the string 'super' and multiply the "code" value by two.
+// If the "code" variable somehow exceeded the number '250', the secret variable will equal the string 'duper' which is what would be console logged instead.
+// It is probably worth noting that this won't happen by just continuously running the "secret" variable, as after one go it will equal '246', thus not triggering the multiplication effect in the first If statement.
 
 //CODE
 /*
@@ -71,6 +72,8 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
+//
+//
 //
 //
 //
