@@ -152,8 +152,8 @@ if (mix === true) {
 // -- they are so we console.log 'throw away the food!'
 
 //SOLUTION
-//
-//
+// Change the either/or pipes (||) to (&&) to match the "and" in the description.
+// The time variable is declared using const which will make it unchanging. It should be declared with let instead, otherwise it will only console.log the number 4.
 
 /*
 let temp = 40;
