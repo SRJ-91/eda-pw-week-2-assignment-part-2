@@ -72,12 +72,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// We create three variables: "isStudent" is a Boolean variable. "age" is assigned the value of '34'. "zip" variable is assigned the value '55407'.
-// A compound else if statement is before us, lets break it down. If the "isStudent" boolean is true AND the "zip" variable exceeds 80000, the console will log: "You're a student on the West Coast!".
+// We create three variables: "isStudent" is a Boolean variable, "age" variable is assigned the value of '34', "zip" variable is assigned the value '55407'.
+// A compound else/if statement is before us, lets break it down. If the "isStudent" boolean is true AND the "zip" variable exceeds 80000, the console will log: "You're a student on the West Coast!".
 // Otherwise, if the "isStudent" variable is false and their age is less than 30, it will console log 'What are your hobbies?'.
-// If neither of the statements above trigger, and the "isStudent" Boolean is true, the console will log: "Welcome to Prime!"
-//
-//
+// If neither of the statements above trigger, yet the "isStudent" Boolean is true, the console will log: "Welcome to Prime!"
+// If none of the three parameters trigger, the console will log: 'How about the weather?'
+
 
 //CODE
 /*
