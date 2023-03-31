@@ -133,6 +133,10 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
+// SOLUTION
+// The code block icorrectly assigned 'red' to "colorOne" and 'blue' to "colorTwo" which is the opposite of the description. Swap these.
+// Also the "mix" Boolean is only changing the "colorOne" variable to 'purple' while the description says it changes "colorTwo" as well. Add (colorTwo = 'purple';) to be beneath (colorOne = 'purple';)
+
 /*
 let colorOne = 'red';
 let colorTwo = 'blue';
