@@ -27,7 +27,7 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We are creating a variable called "name" and assigning its value to be that of the string 'Dane'.
-// Next we are creating a Boolean function to check the value of the name variable.
+// Next we are creating an if statement to check the value of the name variable.
 // If the variable of "name" is strictly equal to that of 'Mary' the console will log 'Hi, Mary!'
 // If the variable is anything other than 'Mary' the console will log the string 'How do you do?'
 
@@ -72,10 +72,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We create three variables: "isStudent" is a Boolean variable. "age" is assigned the value of '34'. "zip" variable is assigned the value '55407'.
+// A compound else if statement is before us, lets break it down. If the "isStudent" boolean is true AND the "zip" variable exceeds 80000, the console will log: "You're a student on the West Coast!".
+// Otherwise, if the "isStudent" variable is false and their age is less than 30, it will console log 'What are your hobbies?'.
+// If neither of the statements above trigger, and the "isStudent" Boolean is true, the console will log: "Welcome to Prime!"
 //
 //
 
