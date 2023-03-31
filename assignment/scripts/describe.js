@@ -168,6 +168,12 @@ if (temp > 39 || time >= 4) {
 // We check if age is greater than or equal to minAge
 // -- it is, so we console.log 'enter'.
 
+//SOLUTION
+// Two ways this could technically be fixed.
+// The minAge and age arguments need to be reversed, also this underage check should just be less than (<), not less than or equal to (<=). That line should read: if(age < minAge)
+// However if we wanted the code to better reflect the description, we would swap the minAge and age arguments like above, but then switch the (<=) to (>=)
+// If we follow the second solution the console.log messages would also have to swap positions, so that if age is greater than or equal to (>=) the sumber 21, it console.logs: 'enter' if not it will log 'no entry'
+
 /*
 let age = 21;
 const minAge = 21;
